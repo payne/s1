@@ -1,0 +1,6 @@
+ 00:56:34 up 28 days,  3:33,  5 users,  load average: 0.07, 0.14, 0.11
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+root     ttyS0                     10Dec17 28days  0.02s  0.01s -bash
+mpayne   pts/0    65.153.176.16-   00:24    2.00s  0.00s  0.00s tmux a
+mpayne   pts/3    tmux(32133).%4   Tue02    2.00s  0.45s  1:09  tmux a
+mpayne   pts/5    tmux(32133).%7   Tue14    3:00  28.35s  1:09  tmux a
