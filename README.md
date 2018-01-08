@@ -26,5 +26,8 @@ Do a mvn spring-boot:run to try things out.
 
 
 [1] sdk install mvn
+
 [2] sdk install springboot
+
 [3] https://github.com/payne/s1/commit/c23f33c6f60aec16041e7418b1b5df54925f661c
+
