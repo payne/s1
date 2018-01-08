@@ -22,7 +22,7 @@ Lame and green.
 
 Finally I move the HAL browser to the /api URI so I can have some static content.
 
-Do a mvn spring-boot:run to try things out.
+Do a *mvn spring-boot:run* to try things out.
 
 
 [1] sdk install mvn
